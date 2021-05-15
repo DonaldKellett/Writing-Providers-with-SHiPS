@@ -75,7 +75,7 @@ If `GFX:\Order` is overwritten with the _same_ value, nothing should occur, i.e.
 Now, some edge cases:
 
 - A sequence with order 0 is such that $F_i = 0$ for any $i$
-- A sequence with order 1 is a geometric sequence with initial term $F_0$ and commonratio $W_0$
+- A sequence with order 1 is a geometric sequence with initial term $F_0$ and common ratio $W_0$
 
 Why these edge cases make sense is left to the reader as an exercise.
 
