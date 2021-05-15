@@ -264,6 +264,9 @@ class OutSeq : SHiPSLeaf
     $this.Start.MarkUnmodified()
     $this.Count.MarkUnmodified()
     $this.Value = @()
+    if ($this.Count.Value -eq 0) {
+      return $this.Value -join ','
+    }
     for ($i = 0; $i -lt $this.Order.Value; ++$i) {
       $this.Value += [bigint]$this.Order.Seed.Params[$i].Value
     }
