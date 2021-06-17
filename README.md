@@ -11,3 +11,7 @@ PowerShell, SHiPS, Pester
 - `KATA.md`: Kata description
 - `Solution.ps1`: User solution
 - `Solution.Tests.ps1`: Unit tests
+
+## License
+
+[MIT](./LICENSE)
