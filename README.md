@@ -1,6 +1,6 @@
 # Writing-Providers-with-SHiPS
 
-Idea of PowerShell Kata on Codewars. DO NOT MAKE PUBLIC
+Former idea of PowerShell Kata on Codewars, now made public since [SHiPS integration was rejected](https://github.com/codewars/runner/issues/123#issuecomment-862953755)
 
 ## Requires
 
